@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "M4mAtQDZn/iNs6ihMtRXJwTf235tD0HDlNPXcN4HmK2p3xeefur0DkM4Cc0iq7rcmsq5Ib1YdTG9/3TYjDGp8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hoang\\source\\repos\\MVCTest\\MVCTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

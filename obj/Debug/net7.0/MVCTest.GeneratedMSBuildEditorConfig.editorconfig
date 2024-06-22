@@ -16,6 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\hoang\source\repos\MVCTest
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/hoang/source/repos/MVCTest/MyView/View1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TXlWaWV3XFZpZXcxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hoang/source/repos/MVCTest/Pages/RazorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmF6b3JQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hoang/source/repos/MVCTest/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hoang/source/repos/MVCTest/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hoang/source/repos/MVCTest/Views/First/HelloView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcSGVsbG9WaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hoang/source/repos/MVCTest/Views/First/View2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlyc3RcVmlldzIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/hoang/source/repos/MVCTest/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
